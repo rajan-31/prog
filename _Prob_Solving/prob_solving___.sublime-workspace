@@ -1,0 +1,691 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ma",
+				"maxEndingHere"
+			],
+			[
+				"as",
+				"asList"
+			],
+			[
+				"Array",
+				"Arrays"
+			],
+			[
+				"e",
+				"else"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"de",
+				"del"
+			],
+			[
+				"le",
+				"leftmost"
+			],
+			[
+				"l",
+				"leftmost"
+			],
+			[
+				"N",
+				"NULL"
+			],
+			[
+				"Nu",
+				"NULL"
+			],
+			[
+				"n",
+				"next"
+			],
+			[
+				"ne",
+				"newNode"
+			],
+			[
+				"str",
+				"struct"
+			],
+			[
+				"pri",
+				"println"
+			],
+			[
+				"v",
+				"void"
+			],
+			[
+				"st",
+				"static"
+			],
+			[
+				"inc",
+				"include"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "zOther/perfect_peak_of_array.cpp",
+			"settings":
+			{
+				"buffer_size": 906,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					5,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAHAMAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					20,
+					1,
+					"paste",
+					null,
+					"AgAAALMAAAAAAAAAbgIAAAAAAAAAAAAAbgIAAAAAAABuAgAAAAAAAFABAABmb3IoaW50IGk9MTsgaTxuLTE7IGkrKykgewogICAgICAgIGludCBtYXhfbGVmdCA9ICptYXhfZWxlbWVudChBLmJlZ2luKCksIEEuYmVnaW4oKStpLTEpOwogICAgICAgIGludCBtaW5fcmlnaHQgPSAqbWluX2VsZW1lbnQoQS5iZWdpbigpK2krMSwgQS5lbmQoKSk7CiAgICAgICAgaWYobWF4X2xlZnQ8QVtpXSAmJiBtaW5fcmlnaHQ+QVtpXSkgewogICAgICAgICAgICBjb3V0PDxBW2ldPDwiICI8PG1heF9sZWZ0PDwiICI8PG1pbl9yaWdodDw8IlxuIjsKICAgICAgICAgICAgY291dDw8aTw8IiAiPDxpLTE8PCIgIjw8aSsxPDwiICI7CiAgICAgICAgICAgIHJldHVybiAxOwogICAgICAgIH0",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAADAgAAAAAAALMAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					23,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AQAAAEMDAAAAAAAARgMAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABcAwAAAAAAAFwDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					26,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AgAAAAACAAAAAAAAAAIAAAAAAAADAAAALy8gwAEAAAAAAADAAQAAAAAAAAMAAAAvLyA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADSAQAAAAAAABMCAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					31,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AgAAAP0BAAAAAAAAAAIAAAAAAAAAAAAAwAEAAAAAAADDAQAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADNAQAAAAAAAAwCAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		},
+		{
+			"file": "zOther/input.txt",
+			"settings":
+			{
+				"buffer_size": 94,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					4,
+					1,
+					"paste",
+					null,
+					"AgAAAAAAAAAAAAAAXgAAAAAAAAAAAAAAXgAAAAAAAABeAAAAAAAAAAcAAAAxCjEgMyAy",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					7,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAIAAAAAAAAAAgAAAAAAAAABAAAAIA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAADAAAAAAAAAAMAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					8,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAAIAAAAAAAAAAwAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAACAAAAAAAAAAIAAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		},
+		{
+			"file": "zOther/output.txt",
+			"settings":
+			{
+				"buffer_size": 2,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					4,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAB8AAAAMCAxCjEgMgoyIDEKMSAzCjMgMQoxIDIKMiAxCjEgNAo0IDEKMSAyCjIgMQoxIDMKMyAxCjEgMgoyIDEKMSA1CjUgMQoxIDIKMiAxCjEgMwozIDEKMSAyCjIgMQoxIDQKNCAxCjEgMgoyIDEKMSAzCjMgMQoxIDIKMiAxCg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAHwAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					7,
+					1,
+					"revert",
+					null,
+					"AgAAAAAAAAAAAAAAAAAAAAAAAAAYAAAANzQzIDIyIDMxNzAKMiAxIDMgMQo5NzE1AAAAAAAAAAAYAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					8,
+					1,
+					"revert",
+					null,
+					"AgAAAAAAAAAAAAAAAAAAAAAAAAAYAAAANzQzIDIyIDMxNzAKMiAxIDMgMQo5NzE1AAAAAAAAAAAGAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					9,
+					1,
+					"revert",
+					null,
+					"AgAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAMAo5NzE1AAAAAAAAAAACAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					10,
+					1,
+					"revert",
+					null,
+					"AgAAAAAAAAAAAAAAAAAAAAAAAAACAAAAMAoAAAAAAAAAAAIAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					14,
+					2,
+					"left_delete",
+					null,
+					"AgAAAAEAAAAAAAAAAQAAAAAAAAABAAAACgAAAAAAAAAAAAAAAAAAAAABAAAAMA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAACAAAAAAAAAAIAAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/Ant.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #include <…>"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"terminu",
+				"Preferences: Terminus Key Bindings"
+			],
+			[
+				"ter",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 525.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Rajan/Desktop/_D/_Prob_Solving",
+		"/C/Users/Rajan/Desktop/_D/_Prob_Solving/InterviewBit",
+		"/C/Users/Rajan/Desktop/_D/_Prob_Solving/zOther"
+	],
+	"file_history":
+	[
+		"/C/Users/Rajan/Desktop/_D/_Prob_Solving/InterviewBit/max-sum-contiguous-subarray/Solution.java",
+		"/C/Users/Rajan/Desktop/_D/_Prob_Solving/InterviewBit/minimum-lights-to-activate/Solution.java",
+		"/C/Users/Rajan/Desktop/_D/_Prob_Solving/InterviewBit/min-steps-in-infinite-grid/Solution.java",
+		"/C/Users/Rajan/Desktop/_D/_Prob_Solving/InterviewBit/pick-from-both-sides/Solution.java",
+		"/C/Users/Rajan/Desktop/_D/_Prob_Solving/InterviewBit/pick-from-both-sides/pick-from-both-sides.java",
+		"/C/Users/Rajan/Desktop/_D/_Prob_Solving/zleetcode/longest_common_prefix.java",
+		"/C/Users/Rajan/AppData/Local/Packages/Microsoft.Office.OneNote_8wekyb3d8bbwe/LocalState/EmbeddedFileFolder/0/cheatsheet.md",
+		"/C/Users/Rajan/AppData/Roaming/Sublime Text 3/Packages/User/java_dsa.sublime-snippet",
+		"/C/Users/Rajan/AppData/Roaming/Sublime Text 3/Packages/User/java_cp.sublime-snippet",
+		"/C/Users/Rajan/AppData/Roaming/Sublime Text 3/Packages/User/runJava.sublime-build",
+		"/C/Users/Rajan/Desktop/_D/_Prob_Solving/LeetCode/vertical-order-traversal-of-a-binary-tree/vertical-order-traversal-of-a-binary-tree.py",
+		"/C/Users/Rajan/Desktop/_D/_Prob_Solving/LeetCode/trapping-rain-water/trapping-rain-water.cpp",
+		"/C/Users/Rajan/Desktop/_D/_Prob_Solving/LeetCode/valid-palindrome/valid-palindrome.cpp",
+		"/C/Users/Rajan/Desktop/_D/_Prob_Solving/LeetCode/vertical-order-traversal-of-a-binary-tree/vertical-order-traversal-of-a-binary-tree.cpp",
+		"/C/Users/Rajan/Desktop/_D/_Prob_Solving/LeetCode/regular-expression-matching/regular-expression-matching.cpp",
+		"/C/Users/Rajan/Desktop/_D/_Prob_Solving/LeetCode/search-in-rotated-sorted-array/search-in-rotated-sorted-array.cpp",
+		"/C/Users/Rajan/Desktop/_D/_Prob_Solving/LeetCode/string-to-integer-atoi/string-to-integer-atoi.cpp",
+		"/C/Users/Rajan/Desktop/_D/_Prob_Solving/LeetCode/product-of-array-except-self/product-of-array-except-self.cpp",
+		"/C/Users/Rajan/Desktop/_D/_Prob_Solving/LeetCode/power-of-four/power-of-four.cpp",
+		"/C/Users/Rajan/Desktop/_D/_Prob_Solving/LeetCode/permutation-sequence/permutation-sequence.cpp",
+		"/C/Users/Rajan/Desktop/_D/_Prob_Solving/LeetCode/merge-k-sorted-lists/merge-k-sorted-lists.cpp",
+		"/C/Users/Rajan/Desktop/_D/_Prob_Solving/LeetCode/median-of-two-sorted-arrays/median-of-two-sorted-arrays.cpp",
+		"/C/Users/Rajan/Desktop/_D/_Prob_Solving/LeetCode/longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.cpp",
+		"/C/Users/Rajan/Desktop/_D/_Prob_Solving/LeetCode/maximum-subarray/maximum-subarray.cpp",
+		"/C/Users/Rajan/Desktop/_D/_Prob_Solving/LeetCode/kth-smallest-element-in-a-bst/kth-smallest-element-in-a-bst.cpp",
+		"/C/Users/Rajan/Desktop/_D/_Prob_Solving/LeetCode/find-minimum-in-rotated-sorted-array-ii/find-minimum-in-rotated-sorted-array-ii.cpp",
+		"/C/Users/Rajan/Desktop/_D/_Prob_Solving/LeetCode/find-minimum-in-rotated-sorted-array/find-minimum-in-rotated-sorted-array.cpp",
+		"/C/Users/Rajan/Desktop/_D/_Prob_Solving/LeetCode/find-all-duplicates-in-an-array/find-all-duplicates-in-an-array.cpp",
+		"/C/Users/Rajan/Desktop/_D/_Prob_Solving/LeetCode/detect-capital/detect-capital.cpp",
+		"/C/Users/Rajan/Desktop/_D/_Prob_Solving/LeetCode/design-hashset/design-hashset.cpp",
+		"/C/Users/Rajan/Desktop/_D/_Prob_Solving/LeetCode/design-add-and-search-words-data-structure/design-add-and-search-words-data-structure.cpp",
+		"/C/Users/Rajan/Desktop/_D/_Prob_Solving/LeetCode/container-with-most-water/container-with-most-water.cpp",
+		"/C/Users/Rajan/Desktop/_D/_Prob_Solving/LeetCode/add-two-numbers/add-two-numbers.cpp",
+		"/C/Users/Rajan/Desktop/_D/_Prob_Solving/LeetCode/3sum/3sum.cpp",
+		"/C/Users/Rajan/Desktop/_D/_Prob_Solving/LeetCode/create_files.sh",
+		"/C/Users/Rajan/Desktop/_D/_Prob_Solving/LeetCode/search-insert-position/search-insert-position.cpp",
+		"/C/Users/Rajan/Desktop/_D/_Prob_Solving/LeetCode/remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.cpp",
+		"/C/Users/Rajan/Desktop/_D/_Prob_Solving/LeetCode/roman-to-integer/roman-to-integer.cpp",
+		"/C/Users/Rajan/Desktop/_D/_Prob_Solving/LeetCode/two-sum/two-sum.cpp",
+		"/C/_Prob_Solving/leetcode/238_product-of-array-except-self.cpp",
+		"/C/_Prob_Solving/leetcode/33_search-in-rotated-sorted-array.cpp",
+		"/C/_Prob_Solving/leetcode/15_3sum.cpp",
+		"/C/Users/Rajan/AppData/Roaming/Sublime Text 3/Packages/User/runCppSimple.sublime-build",
+		"/C/_CP/leetcode/twoSum.cpp",
+		"/C/_Prob_Solving/temp.cpp",
+		"/C/_Learning/Datastructures_n_Algorithms/_DS/4_BST_using_struct.cpp",
+		"/C/_Learning/Datastructures_n_Algorithms/progs/BST2.cpp",
+		"/C/_Learning/Datastructures_n_Algorithms/progs/BST.cpp",
+		"/C/_Learning/Datastructures_n_Algorithms/_DS/3_queue_using_array.cpp",
+		"/C/_Learning/Datastructures_n_Algorithms/_DS/2.1_linkedList_using_struct.cpp",
+		"/C/_Learning/Datastructures_n_Algorithms/_DS/2_linkedList_using_struct.cpp",
+		"/C/_Learning/Datastructures_&_Algorithms/script_cpp.sh",
+		"/C/_Learning/Datastructures_&_Algorithms/compiled.out",
+		"/C/_Learning/Datastructures_&_Algorithms/script_cpp.save",
+		"/C/Users/Rajan/AppData/Roaming/Sublime Text 3/Packages/User/runJavaCP.sublime-build",
+		"/C/Users/Rajan/AppData/Roaming/Sublime Text 3/Packages/User/runJavaDSA.sublime-build",
+		"/C/_Learning/Java/_DSA/output.txt",
+		"/C/_Learning/Java/_DSA/input.txt",
+		"/C/_Learning/Java/_DSA/Test.java",
+		"/C/_Learning/Java/sublime_setup.txt",
+		"/C/Users/Rajan/AppData/Roaming/Sublime Text 3/Packages/User/java_template.sublime-snippet",
+		"/C/Users/Rajan/AppData/Roaming/Sublime Text 3/Packages/User/tp.sublime-snippet",
+		"/C/_Learning/Java/_DSA/runJAVA.sublime-build",
+		"/C/_Learning/Java/_DSA/run_java.sh",
+		"/C/_CP/leetcode/input.txt",
+		"/C/_CP/cpp Notes.txt",
+		"/C/Users/Rajan/Desktop/temp/Programming/input.txt",
+		"/C/Users/Rajan/Desktop/temp/Programming/Solution.java",
+		"/C/Users/Rajan/Desktop/temp/Programming/test1.java",
+		"/C/_CP/leetcode/kth-smallest-element-in-a-bst.cpp",
+		"/C/_CP/leetcode/search-insert-position.cpp",
+		"/C/_CP/leetcode/template.cpp",
+		"/C/_CP/run.sh",
+		"/C/_CP/temp.cpp",
+		"/C/_CP/test.sh",
+		"/C/_CP/leetcode/run.bat",
+		"/C/_CP/leetcode/aaaaaa.txt",
+		"/C/_CP/leetcode/remove-duplicates-from-sorted-array.cpp",
+		"/C/_CP/leetcode/roman-to-integer.cpp",
+		"/C/_CP/leetcode/temp.cpp",
+		"/C/_CP/run.bat",
+		"/C/_CP/leetcode/regular-expression-matching.cpp",
+		"/C/_CP/leetcode/longest-substring-without-repeating-characters.cpp",
+		"/C/_CP/leetcode/run.sh",
+		"/C/_CP/leetcode/output.txt"
+	],
+	"find":
+	{
+		"height": 22.4
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"]",
+			"[",
+			"X",
+			"A",
+			"..",
+			"cd..",
+			"cd",
+			".cpp",
+			"palindrome",
+			"285-bd4d456b011abea143a7.js:1 "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\Users\\Rajan\\Desktop\\_D\\_Prob_Solving"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "zOther/perfect_peak_of_array.cpp",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 906,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								737,
+								737
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "zOther/input.txt",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 94,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3,
+								3
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "zOther/output.txt",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.4
+	},
+	"input":
+	{
+		"height": 36.8
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				2
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.572197660005,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.536919831224,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Terminus":
+	{
+		"height": 186.0
+	},
+	"output.exec":
+	{
+		"height": 27.2
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/runCpp.sublime-build",
+	"project": "",
+	"replace":
+	{
+		"height": 41.6
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				2
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		]
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 161.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
